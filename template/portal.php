@@ -184,7 +184,7 @@
                     </div>
                 </div>
 
-                <!-- Portfolio Item 7-->
+                <!-- Portfolio Item 8-->
                 <div class="col-md-6 col-lg-3 mt-1">
                     <div class="card text-center shadow-lg mx-auto" style="width: 18rem;height:300px">
                         <div class="card-body">
@@ -194,6 +194,20 @@
                                 <p class="card-text">Réunion et Reservation de salle.</p>
                             </div>
                             <a href="./?action=reunion"  class="btn btn-success">ACCEDER</a>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Portfolio Item 9-->
+                <div class="col-md-6 col-lg-3 mt-1">
+                    <div class="card text-center shadow-lg mx-auto" style="width: 18rem;height:300px">
+                        <div class="card-body">
+                            <img src="template/assets/btl.png" style="height:7rem" class="rounded">
+                            <h5 class="card-title">SIRSARL KONTRITOK</h5>
+                            <div style="height:75px">
+                                <p class="card-text">Stock et Vente.</p>
+                            </div>
+                            <a href="./?action=kontritok"  class="btn btn-success">ACCEDER</a>
                         </div>
                     </div>
                 </div>

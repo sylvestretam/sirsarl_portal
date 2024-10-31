@@ -82,6 +82,10 @@
         {   
             header('location:'.$SERVERPATH.'reunion');
         }
+        else if($_REQUEST['action'] == 'kontritok')
+        {   
+            header('location:'.$SERVERPATH.'kontritok');
+        }
         else
         {
             session_destroy(); 
